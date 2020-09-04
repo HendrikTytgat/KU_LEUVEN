@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 10 15:07:24 2020
-
-@author: Charles
-
-"""
-
 import numpy as np
 import pandas as pd
 import scikitplot

@@ -1,12 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 10 11:45:24 2020
-
-@author: Charles
-
-"""
-
-
 from stellargraph.layer import HinSAGE    
 from stellargraph.mapper import HinSAGENodeGenerator
 from tensorflow.keras import layers

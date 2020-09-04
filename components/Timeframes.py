@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 11 12:15:40 2020
-
-@author: Charles
-"""
 from datetime import timedelta
 import dateparser
 import pandas as pd
