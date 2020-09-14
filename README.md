@@ -1,2 +1,3 @@
-# figrl_KU_LEUVEN
+# KU_LEUVEN Job
 Fast Inductive Representation Learning Python demo code
+HinSAGE new Aggregators
